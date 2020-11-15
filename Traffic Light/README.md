@@ -23,10 +23,10 @@ Then create a program to run a traffic signal and display text on the OLED. Afte
 ### System Setup
 
 The traffic light itself:
-![Traffic Light](Images/traffic_light.jpg)
+![Traffic Light](Images/traffic_light.JPG)
 
 The Arduino
-![Arduino](Images/arduino.jpg)
+![Arduino](Images/arduino.JPG)
 
 Running Examples:
  - [System Start](Images/system_start.JPG)
